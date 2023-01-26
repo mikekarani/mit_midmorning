@@ -1,0 +1,89 @@
+p{
+  color: brown;
+  font-family: "DejaVu Serif";
+  font-size: 20px;
+  text-align: justify;
+}
+body{
+ background-image:url("messi.jpeg");
+ background-size: cover;
+ background-repeat: no-repeat;
+
+
+}
+
+
+button{
+  color: gold;
+  font: bold;
+  font-size: 24px;
+  text-align: center;
+  padding: 15px;
+
+
+}
+img{
+  width: 100%;height: 100%;
+}
+,container{
+  position: relative;
+ }
+
+ .centered{
+   position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);
+ }
+
+ table{
+   width: 100%;
+   /*border-collapse: collapse;*/
+ }
+
+ th,td{
+   border:5px dashed green ;
+   font-family: Chilanka;
+   text-align: center;
+   color: teal;
+   padding: 10px;
+
+ }
+
+
+
+ tr:nth-child(EVEN){
+   background:blue;
+
+ }
+ body{
+   background-image: url("o.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat
+ }
+label{
+  font-family: "Abyssinica SIL";
+  font-size: 24px;
+  color: #8A2387;
+  text-align: center;
+  padding: 4px;
+  margin: 5px;
+
+}
+input{
+  background-color: #999999;
+}
+FORM{
+  background-image: url("gunners.jpeg");
+}
+h2 {
+  text-align: center;
+  color: black;
+  font-style: italic;
+  font-size: 30px;
+  border: #888888 dashed ;
+
+}
+select{
+  font-size: 18px;
+  font-family: "Fira Code";
+  color: #6be585;
+}

@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <style>
+    * {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("o.jpeg");
+  ;
+}
+
+/* Style the header */
+header {
+  background-color: #8A2387;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+/* Create two columns/boxes that floats next to each other */
+nav {
+  float: left;
+  width: 30%;
+  height: 500px; /* only for demonstration, should be removed */
+  background: chocolate;
+  padding: 20px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #f1f1f1;
+  height: 500px; /* only for demonstration, should be removed */
+}
+
+/* Clear floats after the columns */
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the footer */
+footer {
+  padding: 10px;
+  text-align: centre;
+  color: ;
+  background: #333333;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #dd1818, #333333);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #dd1818, #333333); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+</style>
+  </style>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>RPT</title>
+
+</head>
+<body>
+<h1>Introduction to layout</h1>
+  <p>In this page we are going to systematically,walk you through the steps of how to create a box/column header or footer .Join us in this explendiotious journey as we create developers from ourn own country people,
+</p>
+<header>
+  <h2>Football</h2>
+</header>
+<section>
+  <nav>
+    <ul>
+      <li><a href="#">Messi</a></li>
+      <li><a href="#">Mbappe</a></li>
+      <li><a href="#">Ronaldo</a></li>
+      <li><a href="#">Odegard</a></li>
+      <li><a href="#">Nketiah</a></li>
+    </ul>
+  </nav>
+<article>
+
+  <img src="img/G.O.A.T.jpeg" alt=""width="200px"height="100px"> <br>
+
+
+  <h3>MESSI</h3>
+
+<p>MESSI is a well renowned personality figure moreso after having lead the Argentina team to clinch the world cup trophy of 2022.This unspokenly brought to an end the decades of rivalry between him and and his close competitor Ronaldo .
+  It was a remarkable and historic time for the football fanatics </p>
+    <p>Mbappe is a very promising player who im hoping is looking to succeed messi in the football world after the legend revealed that it was his time to retire.
+      However Haaland the speedstar the terrorizer will be making mbappe's transition to the the football throne difficult.Will he overcome the challenge!</p>
+</article>
+</section>
+<footer>
+  <img src="img/Arsenal.png" alt="" width="200px" height="250px" >
+  <p>Karani</p>
+  <p>&copy 2022 copyright</p>
+</footer>
+
+</body>
+</html>

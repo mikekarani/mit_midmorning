@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a608828-0ed1-412a-9e7d-e30adebcfc5c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KApZNjqpLlA2LVQqUp1cEQJHR8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/media/emobilis/Windows11/School/team/css/main.css",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a608828-0ed1-412a-9e7d-e30adebcfc5c" name="Changes" comment="" />
+      <created>1673427296155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673427296155</updated>
+      <workItem from="1673427298957" duration="172000" />
+      <workItem from="1673427487576" duration="605000" />
+      <workItem from="1673510572328" duration="7042000" />
+      <workItem from="1673518178667" duration="2377000" />
+      <workItem from="1673597203069" duration="7775000" />
+      <workItem from="1673857498441" duration="5540000" />
+      <workItem from="1673863828211" duration="2747000" />
+      <workItem from="1673943202723" duration="9018000" />
+      <workItem from="1674029923670" duration="7728000" />
+      <workItem from="1674116782728" duration="7663000" />
+      <workItem from="1674124574242" duration="612000" />
+      <workItem from="1674126389706" duration="27000" />
+      <workItem from="1674126496431" duration="44000" />
+      <workItem from="1674126989609" duration="20000" />
+      <workItem from="1674469776895" duration="164000" />
+      <workItem from="1674470020039" duration="1213000" />
+      <workItem from="1674472402058" duration="18000" />
+      <workItem from="1674546740229" duration="9395000" />
+      <workItem from="1674633810016" duration="2548000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
