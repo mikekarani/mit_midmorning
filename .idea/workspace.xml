@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a608828-0ed1-412a-9e7d-e30adebcfc5c" name="Changes" comment="" />
+    <list default="true" id="9a608828-0ed1-412a-9e7d-e30adebcfc5c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/doc/order-summary-component-main.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/el stilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/el stilo.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,10 +22,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KApZNjqpLlA2LVQqUp1cEQJHR8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/media/emobilis/Windows11/School/team/css/main.css",
+    "last_opened_file_path": "/home/emobilis/Desktop/mit_karani/img",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -46,6 +56,7 @@
       <recent name="$PROJECT_DIR$/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/doc" />
       <recent name="$PROJECT_DIR$/css" />
     </key>
   </component>
@@ -76,6 +87,7 @@
       <workItem from="1674472402058" duration="18000" />
       <workItem from="1674546740229" duration="9395000" />
       <workItem from="1674633810016" duration="2548000" />
+      <workItem from="1674808969401" duration="1916000" />
     </task>
     <servers />
   </component>
